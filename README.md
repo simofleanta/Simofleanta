@@ -21,4 +21,10 @@ About me:
 - Bertelsmann Scholarship Exercise [Udacity](https://github.com/simofleanta/Udacity)
 
 
-
+<details>
+  
+  <sumary>:zap: GitHub stats</sumary>
+  
+  <img align="left" alt="Simofleanta's Git stats" src="https://simofleanta.vercel.app/api?username=simofleanta&show_icons=true_border=true" />
+  
+  </details>
