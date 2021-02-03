@@ -1,4 +1,4 @@
-### No Ni! 👋
+### Hello Friends! 👋
 
 
 Here are some ideas to get you started:
