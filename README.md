@@ -1,10 +1,5 @@
 ### Hello Friends! 👋
 
-## Connect with me
-
- <img height="32" width="32" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/[python].svg" />
-  <img height="32" width="32" src="https://unpkg.com/simple-icons@v3/icons/[python].svg" />
-
 About me:
 
 - 🔭 I’m currently working as ...Business Intelligence Analyst
