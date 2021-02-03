@@ -1,7 +1,7 @@
 ### Hello Friends! 👋
 
 ## Connect with me
-- [Twitter](file:///C:/Users/sf/Downloads/twitter.svg)
+- t[Twitter](file:///C:/Users/sf/Downloads/twitter.svg)
 
 About me:
 
