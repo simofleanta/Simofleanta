@@ -1,7 +1,6 @@
 ### Hello Friends! 👋
 
-
-Here are some ideas to get you started:
+About me:
 
 - 🔭 I’m currently working as ...Business Intelligence Analyst
 - 🌱 I’m currently improving ...Python/SQL/Power BI skills
