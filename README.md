@@ -1,5 +1,8 @@
 ### Hello Friends! 👋
 
+## Connect with me
+- [Twitter](file:///C:/Users/sf/Downloads/twitter.svg)
+
 About me:
 
 - 🔭 I’m currently working as ...Business Intelligence Analyst
@@ -8,7 +11,6 @@ About me:
 - 🤔 I’m looking for help with ... contributing to open source projects
 - 💬 Ask me about ... hobbies, travel, books 
 - 📫 How to reach me: ...[Linkedin](https://www.linkedin.com/in/simonafleanta/)
-- 😄 Technologies I use: ...Python/SQL/Power BI
 - ⚡ Fun fact: ...I will join Politics
 -->
 
