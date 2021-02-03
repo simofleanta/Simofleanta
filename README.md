@@ -12,3 +12,8 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...young professional
 - ⚡ Fun fact: ...I will join Politics
 -->
+
+
+### Favorite Projects
+
+- Domestic electricity analysis [Energy_Analysis](https://github.com/Hirsch-BI-Solutions/Electric-Energy-Consumption-Analysis)
