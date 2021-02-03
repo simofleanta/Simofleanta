@@ -25,7 +25,7 @@ About me:
   
   <sumary>:zap: GitHub stats</sumary>
   
+    <img align="left" alt="Simofleanta's Git stats" src="https://simofleanta.simofleanta.vercel.app/api?username=simofleanta&show_icons=true_border=true" />
 
-  [![Readme Card](https://simofleanta.vercel.app/app/api/pin/?username=simofleanta&repo=Simofleanta)](https://github.com/simofleanta/Simofleanta)
-  
+ 
   </details>
