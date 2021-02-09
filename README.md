@@ -53,9 +53,13 @@
 - Konrad Adenauer Economic Policy [KAS](https://github.com/Tracking-International-Affairs/Economic-Policy-debate)
 - BA Jobs report [BA Jobs](https://github.com/simofleanta/BA-Jobs-Report)
 - Bertelsmann Scholarship Exercise [Udacity](https://github.com/simofleanta/Udacity)
---
 
-- Top languages
+<br />
+<br />
+
+---
+
+#  Top languages
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=simofleanta)](https://github.com/Simofleanta/github-readme-stats)
 
