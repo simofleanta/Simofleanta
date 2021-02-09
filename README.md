@@ -5,6 +5,12 @@
 
 
 
+# Profession
+
+- :paperclip: [My Resume](https://github.com/simofleanta/Draft-Notebooks/files/5838026/Simona.Fleanta.Resume.pdf)
+
+
+
 # My stack
 
 
@@ -26,6 +32,7 @@
 <br />
 
 ---
+
 
 # Activity
 
