@@ -3,6 +3,14 @@
 [![LinkedIn Connect](https://img.shields.io/badge/LinkedIn-Connect-blue)](https://www.linkedin.com/in/simonafleanta)
 [![Instagram Follow](https://img.shields.io/badge/Instagram-Follow-green)](https://www.instagram.com/simo_fleanta/?hl=en)
 
+# Stats
+
+#### Github Stats
+
+![Simo's github stats](https://github-readme-stats.vercel.app/api?username=simofleanta&count_private=true&theme=tokyonight&hide=contribs,prs)
+
+</details>
+
 
 
 
