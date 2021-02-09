@@ -1,4 +1,4 @@
-### Hello Friends! 👋
+# Hello Friends! <img src="https://user-images.githubusercontent.com/1303154/88677602-1635ba80-d120-11ea-84d8-d263ba5fc3c0.gif" width="28px" alt="hi">
 
 [![LinkedIn Connect](https://img.shields.io/badge/LinkedIn-Connect-blue)](https://www.linkedin.com/in/simonafleanta)
 [![Instagram Follow](https://img.shields.io/badge/Instagram-Follow-green)](https://www.instagram.com/simo_fleanta/?hl=en)
@@ -34,6 +34,15 @@
 ---
 
 
+### Favorite Projects
+
+- Domestic electricity analysis [Energy_Analysis](https://github.com/Hirsch-BI-Solutions/Electric-Energy-Consumption-Analysis)
+- Ferntech Berlin [Ferntech](https://github.com/Hirsch-BI-Solutions/Ferntech-Insights/blob/main/Power%20%20Venture%20BI%20dashboard%20visual.MD)
+- Konrad Adenauer Economic Policy [KAS](https://github.com/Tracking-International-Affairs/Economic-Policy-debate)
+- BA Jobs report [BA Jobs](https://github.com/simofleanta/BA-Jobs-Report)
+- Bertelsmann Scholarship Exercise [Udacity](https://github.com/simofleanta/Udacity)
+
+
 # Activity
 
 ![Simo's github stats](https://github-readme-stats.vercel.app/api?username=simofleanta&count_private=true&theme=tokyonight&hide=contribs,prs)
@@ -44,14 +53,6 @@
 <br />
 
 ---
-
-### Favorite Projects
-
-- Domestic electricity analysis [Energy_Analysis](https://github.com/Hirsch-BI-Solutions/Electric-Energy-Consumption-Analysis)
-- Ferntech Berlin [Ferntech](https://github.com/Hirsch-BI-Solutions/Ferntech-Insights/blob/main/Power%20%20Venture%20BI%20dashboard%20visual.MD)
-- Konrad Adenauer Economic Policy [KAS](https://github.com/Tracking-International-Affairs/Economic-Policy-debate)
-- BA Jobs report [BA Jobs](https://github.com/simofleanta/BA-Jobs-Report)
-- Bertelsmann Scholarship Exercise [Udacity](https://github.com/simofleanta/Udacity)
 
 
 
