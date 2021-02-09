@@ -3,6 +3,7 @@
 [![LinkedIn Connect](https://img.shields.io/badge/LinkedIn-Connect-blue)](https://www.linkedin.com/in/simonafleanta)
 [![Instagram Follow](https://img.shields.io/badge/Instagram-Follow-green)](https://www.instagram.com/simo_fleanta/?hl=en)
 
+
 # What I do
 
 - 🔭 I harness data to enable you to guide product innovation and business growth @Hirsch BI Solutions
@@ -35,6 +36,9 @@
 <img align="left" alt="Simofleanta | Power BI" width="22px" color="#F2C811" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/powerbi.svg" />
 
 <img align="left" alt="Simofleanta | Adobe Photoshop" width="22px" color="#F2C811" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/adobephotoshop.svg" />
+
+<br/>
+<br/>
 
 
 
