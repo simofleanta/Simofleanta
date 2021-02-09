@@ -1,13 +1,13 @@
 ### Hello Friends! 👋
 
+[![Twitter Follow](https://img.shields.io/twitter/follow/simofleanta?color=1DA1F2&logo=twitter&style=for-the-badge)](https://twitter.com/intent/follow?original_referer=https%3A%2F%2Fgithub.com%simofleanta&screen_name=simofleanta)
+
+
 About me:
 
 - 🔭 I’m currently working as ...Business Intelligence Analyst
-- 🌱 I’m currently improving ...Python/SQL/Power BI skills
-- 👯 I’m looking to collaborate with ... Energy Startups
-- 🤔 I’m looking for help with ... contributing to open source projects
 - 💬 Ask me about ... hobbies, travel, books 
-- 📫 How to reach me: ...[Linkedin](https://www.linkedin.com/in/simonafleanta/)
+- [Linkedin](https://www.linkedin.com/in/simonafleanta/)
 - ⚡ Fun fact: ...I will join Politics
 -->
 
