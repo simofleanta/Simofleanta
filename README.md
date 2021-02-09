@@ -1,6 +1,7 @@
 ### Hello Friends! 👋
 
-[![LinkedIn connect](https://img.shields.io/badge/LinkedIn-Connect-blue)](https://www.linkedin.com/in/simonafleanta)
+[![LinkedIn Connect](https://img.shields.io/badge/LinkedIn-Connect-blue)](https://www.linkedin.com/in/simonafleanta)
+[![Instagram Follow](https://img.shields.io/badge/Instagram-Follow-green)](https://www.instagram.com/simo_fleanta/?hl=en)
 
 
 
