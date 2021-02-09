@@ -13,27 +13,6 @@ About me:
 - ⚡ Fun fact: ...I will join Politics
 -->
 
-# Active on 
-
-<img align="left" alt="Twitter" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/twitter/twitter.png" />
-<img align="left" alt="Simofleanta | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />
-<img align="left" alt="Simofleanta | Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />
-<br />
-<br />
-
----
-
-
-
-### Favorite Projects
-
-- Domestic electricity analysis [Energy_Analysis](https://github.com/Hirsch-BI-Solutions/Electric-Energy-Consumption-Analysis)
-- Ferntech Berlin [Ferntech](https://github.com/Hirsch-BI-Solutions/Ferntech-Insights/blob/main/Power%20%20Venture%20BI%20dashboard%20visual.MD)
-- Konrad Adenauer Economic Policy [KAS](https://github.com/Tracking-International-Affairs/Economic-Policy-debate)
-- BA Jobs report [BA Jobs](https://github.com/simofleanta/BA-Jobs-Report)
-- Bertelsmann Scholarship Exercise [Udacity](https://github.com/simofleanta/Udacity)
-
-
 # My stack
 
 
@@ -55,6 +34,20 @@ About me:
 <br />
 
 ---
+
+
+
+
+### Favorite Projects
+
+- Domestic electricity analysis [Energy_Analysis](https://github.com/Hirsch-BI-Solutions/Electric-Energy-Consumption-Analysis)
+- Ferntech Berlin [Ferntech](https://github.com/Hirsch-BI-Solutions/Ferntech-Insights/blob/main/Power%20%20Venture%20BI%20dashboard%20visual.MD)
+- Konrad Adenauer Economic Policy [KAS](https://github.com/Tracking-International-Affairs/Economic-Policy-debate)
+- BA Jobs report [BA Jobs](https://github.com/simofleanta/BA-Jobs-Report)
+- Bertelsmann Scholarship Exercise [Udacity](https://github.com/simofleanta/Udacity)
+
+
+
 
 # Activity
 
