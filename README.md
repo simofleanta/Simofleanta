@@ -2,7 +2,7 @@
 
 [![LinkedIn Connect](https://img.shields.io/badge/LinkedIn-Connect-blue)](https://www.linkedin.com/in/simonafleanta)
 [![Instagram Follow](https://img.shields.io/badge/Instagram-Follow-green)](https://www.instagram.com/simo_fleanta/?hl=en)
-![Mail Badge](https://img.shields.io/badge/-@simo_fleanta-e84393?style=flat&labelColor=e84393&logo=instagram&logoColor=white)
+
 
 
 
