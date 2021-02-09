@@ -21,4 +21,11 @@ About me:
 - Bertelsmann Scholarship Exercise [Udacity](https://github.com/simofleanta/Udacity)
 
 
+# Connect
+
+
+[<img align="left" alt="Simofleanta | Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />]
+[<img align="left" alt="Simofleanta | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />]
+
+
 
