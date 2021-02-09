@@ -1,6 +1,8 @@
 ### Hello Friends! 👋
 
 [![Twitter Follow](https://img.shields.io/twitter/follow/simofleanta?color=1DA1F2&logo=twitter&style=for-the-badge)](https://twitter.com/simofleanta)
+[![LinkedIn connect](https://img.shields.io/badge/LinkedIn-connect-blue)](https://www.linkedin.com/in/simonafleanta)
+
 
 
 About me:
