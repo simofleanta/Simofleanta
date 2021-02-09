@@ -3,11 +3,18 @@
 [![LinkedIn Connect](https://img.shields.io/badge/LinkedIn-Connect-blue)](https://www.linkedin.com/in/simonafleanta)
 [![Instagram Follow](https://img.shields.io/badge/Instagram-Follow-green)](https://www.instagram.com/simo_fleanta/?hl=en)
 
+# What I do
+
+- 🔭 I harness data to enable you to guide product innovation and business growth @Hirsch BI Solutions
+- :computer: Most used line of code `git commit -m "Initial Commit"`
+- 🤔 I’m looking for friends to go hiking, sharing ideas, working on open source projects.
+- 😄 Pronouns: BI Analyst, Business Analyst.
 
 
 # Profession
 
 - :paperclip: [My Resume](https://github.com/simofleanta/Draft-Notebooks/files/5838026/Simona.Fleanta.Resume.pdf)
+- :email: simo.fleanta@gmail.com
 
 
 
