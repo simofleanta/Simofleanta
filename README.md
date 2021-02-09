@@ -5,24 +5,6 @@
 
 
 
-# Activity
-
-![Simo's github stats](https://github-readme-stats.vercel.app/api?username=simofleanta&count_private=true&theme=tokyonight&hide=contribs,prs)
-
-</details>
-
-
-
-
-
-
-About me:
-
-- 🔭 I’m currently working as ...Business Intelligence Analyst
-- 💬 Ask me about ... hobbies, travel, books 
-- ⚡ Fun fact: ...I will join Politics
--->
-
 # My stack
 
 
@@ -45,8 +27,16 @@ About me:
 
 ---
 
+# Activity
 
+![Simo's github stats](https://github-readme-stats.vercel.app/api?username=simofleanta&count_private=true&theme=tokyonight&hide=contribs,prs)
 
+</details>
+
+<br />
+<br />
+
+---
 
 ### Favorite Projects
 
@@ -58,8 +48,7 @@ About me:
 
 
 
-
-# Activity
+# Funk
 
 [<img src="https://now-playing-simofleanta.vercel.app/api/spotify-playing" alt="simofleanta Spotify Playing" width="350" />](https://open.spotify.com/user/40ghawdoblwzgun5xf6ci4icm)
 
