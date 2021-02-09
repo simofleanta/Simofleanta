@@ -52,7 +52,7 @@
 
 # Activity
 
-![Simo's github stats](https://github-readme-stats.vercel.app/api?username=simofleanta&count_private=true&theme=tokyonight&hide=contribs,prs)
+![Simo's github stats](https://github-readme-stats.vercel.app/api?username=simofleanta&show_icons=true&hide_border=true)
 
 </details>
 
@@ -60,7 +60,7 @@
 <br />
 
 ---
-
+                                                                    
 
 
 # Funk
