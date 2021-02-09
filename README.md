@@ -53,11 +53,6 @@ About me:
 
 # Activity
 
-<details>
-  <summary>:zap: GitHub Stats</summary>
-
-  <img align="left" alt="Simofleanta's GitHub Stats" src="https://github-readme-stats.simofleanta.vercel.app/api?username=simofleanta&show_icons=true&hide_border=true" />
-
-</details>
+[<img src="https://now-playing-simofleanta.vercel.app/api/spotify-playing" alt="simofleanta Spotify Playing" width="350" />](https://open.spotify.com/user/40ghawdoblwzgun5xf6ci4icm)
 
 
