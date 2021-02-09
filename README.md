@@ -11,6 +11,7 @@
 - 😄 Pronouns: BI Analyst, Business Analyst.
 
 
+
 # Profession
 
 - :paperclip: [My Resume](https://github.com/simofleanta/Draft-Notebooks/files/5838026/Simona.Fleanta.Resume.pdf)
@@ -38,14 +39,6 @@
 
 
 
-
-
-<br />
-<br />
-
----
-
-
 ### Favorite Projects
 
 - Domestic electricity analysis [Energy_Analysis](https://github.com/Hirsch-BI-Solutions/Electric-Energy-Consumption-Analysis)
@@ -54,14 +47,13 @@
 - BA Jobs report [BA Jobs](https://github.com/simofleanta/BA-Jobs-Report)
 - Bertelsmann Scholarship Exercise [Udacity](https://github.com/simofleanta/Udacity)
 
-<br />
-<br />
 
----
 
 #  Top languages
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=simofleanta)](https://github.com/Simofleanta/github-readme-stats)
+
+
 
 
 # Activity
