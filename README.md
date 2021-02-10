@@ -7,6 +7,7 @@
 # What I do
 
 - 🔭 I harness data to enable you to guide product innovation and business growth @Hirsch BI Solutions
+- :computer: Most used packages in Python used : `Pandas, Seaborn, Matplotlib`
 - 🤔 I’m looking for friends to go hiking, sharing ideas, working on open source projects.
 - 😄 Pronouns: BI Analyst, Business Analyst.
 
