@@ -4,9 +4,7 @@
 [![Instagram Follow](https://img.shields.io/badge/Instagram-Follow-green)](https://www.instagram.com/simo_fleanta/?hl=en)
 
 
-# What I do  
-
- ```pyhon
+#  ```pyhon
    def me():
       return ...
 ```
