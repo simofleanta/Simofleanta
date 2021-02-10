@@ -82,11 +82,6 @@
                                                                     
 
 
-# Funk
-
-[<img src="https://now-playing-simofleanta.vercel.app/api/spotify-playing" alt="simofleanta Spotify Playing" width="350" />](https://open.spotify.com/user/40ghawdoblwzgun5xf6ci4icm)
-
-
 
 
 
