@@ -7,8 +7,8 @@
 # What I do  
 
  ```pyhon
-def_me():
-    return description
+   def me():
+      return ...
 ```
 
 - 🔭 I harness data to enable you to guide product innovation and business growth @Hirsch BI Solutions
