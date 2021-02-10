@@ -4,7 +4,12 @@
 [![Instagram Follow](https://img.shields.io/badge/Instagram-Follow-green)](https://www.instagram.com/simo_fleanta/?hl=en)
 
 
-# What I do
+# What I do  
+
+ ```pyhon
+def_me():
+    return description
+```
 
 - 🔭 I harness data to enable you to guide product innovation and business growth @Hirsch BI Solutions
 - :computer: Most used packages in Python used : `Pandas, Seaborn, Matplotlib`
