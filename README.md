@@ -36,6 +36,8 @@
 
 <img align="left" alt="Simofleanta | Adobe Photoshop" width="22px" color="#F2C811" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/adobephotoshop.svg" />
 
+<img align="left" alt="Simofleanta | Tableau" width="22px" color="#F2C811" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/tableau.svg" />
+
 <br/>
 <br/>
 
