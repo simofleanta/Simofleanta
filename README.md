@@ -106,7 +106,7 @@
 * Navigate to the following URL:
 
 ```
-https://accounts.spotify.com/authorize?client_id={SPOTIFY_CLIENT_ID}&response_type=code&scope=user-read-currently-playing,user-read-recently-played&redirect_uri=http://localhost/callback/
+https://accounts.spotify.com/authorize?client_id={dee888fb4dee406fbc1776777c7f9853}&response_type=code&scope=user-read-currently-playing,user-read-recently-played&redirect_uri=http://localhost/callback/
 ```
 
 * After logging in, save the {CODE} portion of: `http://localhost/callback/?code={CODE}`
