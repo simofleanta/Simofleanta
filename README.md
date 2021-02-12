@@ -67,7 +67,7 @@
 
 #  Top languages
 
-[![Top Langs](https://github-simofleanta.vercel.app/api/top-langs/?username=simofleanta)](https://github.com/Simofleanta/github-readme-stats)
+[![Top Langs](https://github-readme-statcs.vercel.app/api/top-langs/?username=simofleanta)](https://github.com/Simofleanta/github-readme-stats)
 
 
 
