@@ -49,7 +49,7 @@
 <img align="left" alt="Simofleanta | html5" width="22px" color="#F2C811" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/html5.svg" />
 
 
-<img align="left" alt="Simofleanta | Microsoft Excel" width="22px" color="#F2C811" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/microsoftexcel.svg" />
+<img align="left" alt="Simofleanta | Microsoft Excel" width="22px" color="#E34F26" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/microsoftexcel.svg" />
 
 <br/>
 <br/>
