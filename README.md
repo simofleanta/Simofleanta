@@ -46,7 +46,7 @@
 
 <img align="left" alt="Simofleanta | Tableau" width="22px" color="#F2C811" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/tableau.svg" />
 
-<img align="left" alt="Simofleanta | HTML" width="22px" color="#F2C811" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/html.svg" />
+<img align="left" alt="Simofleanta | html" width="22px" color="#F2C811" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/html.svg" />
 
 
 <img align="left" alt="Simofleanta | Microsoft Excel" width="22px" color="#F2C811" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/microsoftexcel.svg" />
