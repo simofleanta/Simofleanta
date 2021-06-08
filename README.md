@@ -3,10 +3,6 @@
 [![LinkedIn Connect](https://img.shields.io/badge/LinkedIn-Connect-blue)](https://www.linkedin.com/in/simonafleanta)
 [![Instagram Follow](https://img.shields.io/badge/Instagram-Follow-green)](https://www.instagram.com/simo_fleanta/?hl=en)
 
-#
-
-[![Instagram Follow](https://img.shields.io/instagram/follow/simo_fleanta?color=1DA1F2&logo=instagram&style=for-the-badge)](https://instagram.com/intent/follow?original_referer=https%3A%2F%2Fgithub.com%simofleanta&screen_name=simofleanta)
-
 
 
 
