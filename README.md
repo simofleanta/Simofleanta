@@ -4,7 +4,7 @@
 [![Instagram Follow](https://img.shields.io/badge/Instagram-Follow-green)](https://www.instagram.com/simo_fleanta/?hl=en)
 
 # Muz
-[<img src="https://now-playing-simofleanta.vercel.app/api/spotify-playing" alt="simofleanta Spotify Playing" width="350" />](https://open.spotify.com/user/ dee888fb4dee406fbc1776777c7f9853)
+[<img src="https://now-playing-simofleanta.vercel.app/api/spotify-playing" alt="simo_playing Spotify Playing" width="350" />](https://open.spotify.com/user/ dee888fb4dee406fbc1776777c7f9853)
 
 
 #  What I do
