@@ -67,7 +67,7 @@
 
 # My top languages 
 
-![S's github stats](https://github-readme-stats.vercel.app/api?username=simofleanta&count_private=true&show_icons=true)
+![S's github stats](https://github-readme-stats.vercel.app/api?username=simofleanta&count_private=true&show_icons=true,prs,issues)
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=simofleanta&layout=compact&hide=jupyter%20notebook)](https://github.com/simofleanta/github-readme-stats)
 
