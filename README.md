@@ -65,6 +65,12 @@
 - BA Jobs report [BA Jobs](https://github.com/simofleanta/BA-Jobs-Report)
 - Bertelsmann Scholarship Exercise [Udacity](https://github.com/simofleanta/Udacity)
 
+# Apps
+
+![S's github stats](https://github-readme-stats.vercel.app/api?username=simofleanta&count_private=true&show_icons=true&hide=contribs,prs,issues)
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=simofleanta&layout=compact&hide=jupyter%20notebook,html&langs_count=10)](https://github.com/simofleanta/github-readme-stats)
+
 
 
                                                                  
